@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Abijith;AI+%7C+ML+Enthusiast;Building+%26+Breaking+Things;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Abijith;AI+%7C+ML+Engineer;Building+Agentic+Systems;Full-Stack+%2B+Intelligent+Systems;Always+Learning+%26+Shipping" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,11 +12,12 @@
 <!-- ======================= ABOUT ME ======================= -->
 ## 🧠 About Me
 
-- 🎓 Penultimate-year engineering student
-- 🤖 Focused on **Artificial Intelligence & Machine Learning**
-- 🧩 Strong believer in **learning by building + deep fundamentals**
-- 🐍 Currently mastering **Python (hands-on, problem-driven approach)**
-- ⚡ Strength: Once I start, I *finish* — working on eliminating hesitation
+- 🎓 Penultimate-year engineering student  
+- 🤖 Focused on **Artificial Intelligence, Machine Learning & Agentic Systems**  
+- 🧩 Strong believer in **first-principles thinking + building real systems**  
+- 🐍 Currently mastering **Python deeply (systems + applied AI)**  
+- ⚙️ Exploring **multi-agent architectures, autonomy, and decision systems**  
+- ⚡ Bias toward execution — once started, I push to completion  
 
 ---
 
@@ -24,7 +25,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,html,css,linux,git,github,mysql,mongodb,tensorflow,pytorch,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,html,css,linux,git,github,mysql,mongodb,tensorflow,pytorch,fastapi,docker,vscode&perline=9" />
 </p>
 
 ---
@@ -32,33 +33,54 @@
 <!-- ======================= PROJECTS ======================= -->
 ## 🚀 Featured Projects
 
-### 🧠 AI-Powered Systems
-- **Agentic AI Hackathon Concept**  
-  Built a system that moves beyond passive AI → actively takes decisions and executes tasks autonomously.
+### 🟣 **SheVest**
+A **FinTech + LegalTech ecosystem** designed to empower women's financial inclusion.  
+- Includes **ChitHub** (community-driven finance layer)  
+- Features an **AI Legal Bodyguard** for real-time legal awareness & protection  
+- Built for **SheLeads 2.0 Hackathon** with Meghnath S  
 
-- **Social Network Analysis Engine**  
-  Implemented algorithms like PageRank & HITS to analyze influence and connectivity patterns.
+---
 
-### 🔐 Systems & Security
-- **Cryptography Toolkit**  
-  Practical implementations of encryption algorithms with real-world use cases.
+### 🔵 **SERAPHS 2.0**
+A **global autonomous compliance intelligence network**  
+- Designed with a **12-agent architecture**  
+- Integrates **blockchain for trust, traceability, and decentralization**  
+- Focuses on **real-time regulatory intelligence and adaptive compliance systems**  
 
-### ⚙️ Core CS Projects
-- **OS Process Simulator**  
-  Simulated scheduling algorithms & memory management techniques.
+---
 
-- **Data Mining Pipeline**  
-  Built models for pattern extraction and predictive insights using structured datasets.
+### 🟢 **Jan-Awaaz**
+An **AI-driven civic grievance and governance intelligence system**  
+- Designed to solve the **trust & communication gap in public grievance systems**  
+- Built using **AI pipelines + full-stack architecture**  
+- Features **intelligent intake, classification, prioritization, and feedback loops**  
+- Focus on **scalable, transparent, and citizen-centric governance systems**  
+
+---
+
+### 🟡 **Lumina**
+A modern **e-commerce platform with editorial storytelling UX**  
+- Built with **React + modular sub-agent architecture**  
+- Implements **optimistic UI states for seamless UX**  
+- Combines **lookbook-style design with commerce functionality**  
+
+---
+
+### 🔴 **Jarvis**
+An **autonomous multi-agent AI system** inspired by real-time decision engines  
+- Designed to **interpret commands, plan tasks, and execute actions autonomously**  
+- Built around **agent orchestration + tool usage pipelines**  
+- Focus on **scalable autonomy, reasoning, and system-level intelligence**  
 
 ---
 
 <!-- ======================= FUN ======================= -->
 ## 🎮 Off the Keyboard
 
-- 🧠 Strategy & problem-solving games
-- ⚽ Competitive sports mindset (discipline > motivation)
-- 📖 Deep dives into geopolitics & real-world systems
-- ⚔️ Enjoy exploring **war strategies, simulations, and decision-making systems**
+- 🧠 Strategy & high-level problem-solving  
+- ⚽ Competitive sports mindset (discipline-driven)  
+- 📖 Deep dives into geopolitics & complex real-world systems  
+- ⚔️ Interest in **war strategy, simulations, and decision-making frameworks**  
 
 ---
 
@@ -66,12 +88,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riicko-19&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riicko-19&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riicko-19&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -92,10 +114,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
