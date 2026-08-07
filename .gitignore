@@ -1,0 +1,7 @@
+# Local tuning output: preprocessed photo, PNG proofs, scratch renders.
+build/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
