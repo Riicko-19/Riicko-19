@@ -16,7 +16,7 @@ import sys
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageEnhance, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
 PROFILE = ROOT / "data" / "profile.json"
@@ -50,6 +50,30 @@ DEFAULTS = {
     "columns": 96,
     "ramp": " .:-=+*#%@",
     "invert": INVERT,
+    # Tails clipped by autocontrast, per side, as a percentage.
+    "cutoff": 2,
+    # Extra contrast applied after autocontrast. 1.0 is a no-op. Photographic
+    # faces sit in a narrow mid-grey band that the ramp renders as mush, so a
+    # gentle boost is usually what makes features legible.
+    "contrast": 1.0,
+    # Fraction of each edge to trim before sampling, as [left, top, right,
+    # bottom]. Cropping to head-and-shoulders buys more legibility than any
+    # other knob, because it spends the character grid on the face.
+    "crop": [0.0, 0.0, 0.0, 0.0],
+    # Luminance above which a pixel is treated as backdrop and folded down
+    # toward black, or null to leave the image alone.
+    #
+    # This card wants a DARK background and a lit subject, so that with
+    # invert=True the face inks up and the backdrop thins to whitespace. A
+    # photo shot against a white wall is the exact inverse of that: leave it
+    # alone and either the wall inks up into a solid block (invert=True) or
+    # the face does (invert=False). Knocking the wall out restores the
+    # premise the card is built on.
+    #
+    # Tune by eye against build/ascii-preprocessed.png: too low and highlights
+    # on the forehead and nose get folded down into blotches, too high and the
+    # wall survives. Somewhere near 170 suits a typical indoor white wall.
+    "bg_knockout": None,
 }
 FALLBACK_THEME = {
     "bg_from": "#0f2027",
@@ -75,11 +99,38 @@ def load_config() -> tuple[dict, dict, dict]:
     )
 
 
-def preprocess(path: Path) -> Image.Image:
+def preprocess(path: Path, cfg: dict) -> Image.Image:
     image = Image.open(path)
     image = ImageOps.exif_transpose(image)          # honour phone orientation
     image = image.convert("L")                      # grayscale
-    image = ImageOps.autocontrast(image, cutoff=2)  # clip the flattest 2% tails
+
+    left, top, right, bottom = cfg["crop"]
+    if any((left, top, right, bottom)):
+        w, h = image.size
+        box = (round(w * left), round(h * top),
+               round(w * (1 - right)), round(h * (1 - bottom)))
+        if box[2] - box[0] < 1 or box[3] - box[1] < 1:
+            sys.exit("gen_ascii: ascii.crop removes the whole image.")
+        image = image.crop(box)
+
+    image = ImageOps.autocontrast(image, cutoff=cfg["cutoff"])
+
+    threshold = cfg["bg_knockout"]
+    if threshold is not None:
+        threshold = int(threshold)
+        if not 0 < threshold < 255:
+            sys.exit("gen_ascii: ascii.bg_knockout must be between 1 and 254.")
+        span = 255 - threshold
+        # Below the threshold the subject passes through untouched; above it the
+        # backdrop is mirrored down toward black and damped, which keeps the
+        # hairline from acquiring a hard jagged edge the way a flat cut would.
+        image = image.point(
+            [v if v <= threshold else max(0, int((255 - v) * (255 / span) * 0.45))
+             for v in range(256)]
+        )
+
+    if cfg["contrast"] != 1.0:
+        image = ImageEnhance.Contrast(image).enhance(cfg["contrast"])
     return image
 
 
@@ -164,7 +215,7 @@ def main() -> int:
     theme, card, cfg = load_config()
     invert = bool(cfg.get("invert", INVERT))
 
-    image = preprocess(SOURCE)
+    image = preprocess(SOURCE, cfg)
     PREVIEW.parent.mkdir(parents=True, exist_ok=True)
     image.save(PREVIEW)
 
