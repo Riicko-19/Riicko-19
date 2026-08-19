@@ -31,15 +31,30 @@ reads it from the repo, not from your machine.
 
 - A head-and-shoulders crop works best. The card is 400×578, so anything from
   square to 3:4 portrait fills it well.
-- **Shoot or pick a photo with a dark background.** The card is dark and the
-  glyphs are bright, so `INVERT = True` in `scripts/gen_ascii.py` maps *bright*
-  pixels to the densest characters: your lit face inks up, the background thins
-  out to whitespace. If your only photo has a bright background (a window, a
-  white wall), set `ascii.invert` to `false` in `data/profile.json` — otherwise
-  the background is what inks up and you disappear into it.
-- Contrast matters more than resolution. If the result looks like mush, adjust
-  the crop and contrast in any photo editor and re-run; `build/ascii-preprocessed.png`
-  shows exactly what the sampler saw after grayscale and autocontrast.
+- **A dark background is the easy case.** The card is dark and the glyphs are
+  bright, so `ascii.invert: true` maps *bright* pixels to the densest
+  characters: your lit face inks up, the background thins to whitespace.
+- **A bright background is the awkward case**, and it is what the current photo
+  has. Neither polarity works on its own — `invert: true` inks the wall into a
+  solid block, `invert: false` inks your face into one. Set
+  `ascii.bg_knockout` to the luminance above which a pixel counts as backdrop
+  and it gets folded down toward black, which puts you back in the easy case
+  with `invert: true`. Around 150–170 suits a typical indoor white wall.
+- Contrast matters more than resolution. Everything is tunable from
+  `data/profile.json` → `ascii` without touching the script:
+
+  | Key | Current | Does |
+  |---|---|---|
+  | `columns` | `110` | Character grid width. Higher resolves finer features and shrinks the glyphs. |
+  | `crop` | `[0.17, 0.005, 0.18, 0.28]` | Fraction trimmed off `[left, top, right, bottom]` before sampling. Cropping to head-and-shoulders buys more than any other knob. |
+  | `contrast` | `1.3` | Extra contrast after autocontrast. `1.0` is a no-op. |
+  | `cutoff` | `2` | Percent of tonal tails autocontrast clips per side. |
+  | `bg_knockout` | `152` | Backdrop threshold, or `null` to leave the photo alone. |
+  | `invert` | `true` | `true` = bright pixels get the densest glyphs. |
+
+  After every run `build/ascii-preprocessed.png` shows exactly what the sampler
+  saw. Judge the knobs against that image first — it is far quicker than
+  reading glyphs.
 
 ## 3. Run locally
 
@@ -129,7 +144,7 @@ loudly (non-zero exit, red run) rather than quietly publishing a blank chart.
 
 | Where | What | Why |
 |---|---|---|
-| `assets/source-photo.jpg` | **Missing — you must add it.** | Nothing generates the portrait until this exists. The workflow skips the step cleanly and the README image stays broken. |
+| `assets/source-photo.jpg` | Present and committed. | Tuned settings live in `data/profile.json` → `ascii`. Replacing the photo means re-checking `crop` and `bg_knockout` against the new background. |
 | `data/profile.json` → `identity.education` | Currently `B.Tech CSE (AI/ML) · Presidency University` | Add a graduation year if you want one; there is room on the line. |
 | `data/profile.json` → `highlights.items[].detail` | Full project descriptions as you gave them | Verify the wrapping still pleases you after any edit — the card reports its remaining headroom on every run. |
 | `data/profile.json` → `theme.bg_via` (`#203a43`) | **My addition.** | You specified `#0f2027 → #2c5364`. A two-stop gradient across a tall card banded slightly, so I added the conventional midpoint of that palette. Delete the `55%` stop in all three scripts if you want the strict two-stop version. |
