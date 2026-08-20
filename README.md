@@ -35,131 +35,63 @@ I'm **Abijith G**, a Computer Science Engineering student specializing in **AI/M
 
 ---
 
-# ⚙️ Tech Stack
-
-### 💻 Languages
+## stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css&perline=5" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=58A6FF"/>
 </p>
 
-### 🤖 AI / ML / Agentic Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=5" />
-</p>
-
 <p align="center">
 
-`LLM Integration` · `Prompt Engineering` · `Multi-Agent Orchestration` · `NLP`
-`Information Retrieval` · `Transformers` · `CNNs` · `Transfer Learning`
-`scikit-learn` · `NLTK` · `spaCy` · `RAG`
+`LLM Integration` · `RAG` · `Multi-Agent Orchestration` · `Prompt Engineering` · `NLP` · `Information Retrieval` · `Transfer Learning`
 
-</p>
-
-### 🌐 Full-Stack Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,threejs,firebase&perline=6" />
-</p>
-
-`REST APIs` · `Frontend Development` · `Backend Development`
-
-### 🗄️ Data & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux,git,github,githubactions&perline=7" />
-</p>
-
-`PostgreSQL` · `MongoDB` · `Docker` · `GitHub Actions` · `Pytest` · `YAML` · `CLI`
-
-### 🛠️ Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,vercel&perline=4" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## shipped
 
-## 🔵 Seraph
-### LLM-Powered Multi-Agent Regulatory Intelligence System
+**[Seraph](https://github.com/Riicko-19/Seraphs)**
+> llm-powered, 12-agent regulatory intelligence system. scrapes and classifies unstructured regulatory documents through a layered retrieval → parsing → llm-analysis → structured-output pipeline. react frontend over a python agentic backend.
+> 4th place, Cardano IBW Hackathon India.
+> `Python` `LLMs` `NLP` `React`
 
-> **12 agents · LLMs · NLP · Information Retrieval · React · Vercel**
+**[Transformer-Based Sign Language Recognition](https://github.com/Riicko-19/ISL)**
+> hybrid cnn-transformer classifier for indian sign language. 35 gesture classes, 5,000+ image dataset, transfer learning + augmentation + regularization.
+> 85% top-1 accuracy.
+> `Python` `PyTorch` `CNN` `Transformers`
 
-An autonomous regulatory intelligence platform designed to transform unstructured regulatory information into structured compliance updates.
-
-- 🤖 Engineered a **12-agent architecture** for regulatory processing
-- 🔎 Combined web scraping with **LLM-driven document classification and metadata extraction**
-- 🧠 Designed a synchronous layered pipeline covering **retrieval → parsing → LLM analysis → structured output**
-- ⚛️ Built a React frontend over a Python agentic backend
-- 🏆 **4th Place — Cardano IBW Hackathon India**
-
----
-
-## 🛡️ Sentinel
-### AI-Supervised Containerized Development Environment
-
-> **Python · Docker · LLM Interface · Logging · Monitoring · Automation**
-
-A controlled development environment designed for safer AI-assisted experimentation.
-
-- 🐳 Built an isolated Docker environment with **automated workspace provisioning**
-- 🔄 Implemented container lifecycle management for reproducible experimentation
-- 🤖 Developed a hybrid monitoring agent with a **pluggable LLM interface**
-- 👁️ Tracks developer actions, tool usage, and system requests
-- 📊 Generates structured logs, execution traces, activity reports, and safety insights
+**[ForgeML](https://github.com/Riicko-19/ForgeML)**
+> modular mlops toolkit. artifact-based workflow system with versioning and validation, schema-driven yaml/json config, cli-driven automation. github actions ci + pytest run on every commit.
+> `Python` `Docker` `GitHub Actions` `Pytest`
 
 ---
 
-## 🤟 Transformer-Based Sign Language Recognition
-### Hybrid CNN–Transformer Image Classification
+## in the lab
 
-> **Python · PyTorch · CNN · Transformers · Transfer Learning**
+**Sentinel**
+> ai-supervised, docker-isolated dev environment. automated workspace provisioning, container lifecycle management, and a monitoring agent with a pluggable llm interface — tracks tool usage and system requests, emits structured logs and safety reports.
+> `Python` `Docker` `LLM Interface`
 
-A computer vision system for static Indian Sign Language recognition.
-
-- 🧠 Built a **hybrid CNN-Transformer classifier**
-- 🤟 Classified **35 Indian Sign Language gesture classes**
-- 🖼️ Preprocessed and augmented a **5,000+ image dataset**
-- ⚡ Applied normalization, class balancing, transfer learning, and regularization
-- 📈 Achieved **85% top-1 accuracy**
-- 🔬 Benchmarked multiple model variants through experimentation and hyperparameter tuning
-
----
-
-## 🔧 ForgeML
-### Modular MLOps Engineering Toolkit
-
-> **Python · Docker · GitHub Actions · Pytest · YAML · CLI · Git**
-
-A developer toolkit focused on making ML workflows **reproducible, versioned, and automatable**.
-
-- 📦 Built a modular artifact-based workflow system
-- 🔖 Implemented artifact versioning and validation
-- 🧩 Created schema-driven configuration using **YAML and JSON**
-- 💻 Added CLI-driven workflow automation
-- 🔄 Configured **GitHub Actions CI/CD**
-- 🧪 Integrated Pytest for automated validation on every commit
-
----
-
-## 🏥 Aether
-### Patient Copilot — Collaborative AI Platform
-
-> **Python · FastAPI · RAG · LLM Orchestration · PostgreSQL · OCR/NLP**
-
-An actively developed collaborative AI platform focused on structured patient-state intelligence.
-
-- 🏗️ Co-architected a **FastAPI microservice topology**
-- 🧩 Services include **Ingestion, Baseline & Deviation, Patient State, and Policy Engine**
-- 🗃️ Uses a versioned **Patient State Graph in PostgreSQL** as the system's source of truth
-- 🔎 Built a hybrid retrieval pipeline combining:
-  - Dense embeddings
-  - BM25
-  - Cross-encoder reranking
-- 📄 Uses OCR/NLP processing to normalize medical documents into standardized representations
+**Aether**
+> patient copilot. a fastapi microservice topology (ingestion, baseline & deviation, patient state, policy engine) backed by a versioned patient-state graph in postgres. hybrid retrieval across dense embeddings, bm25, and cross-encoder reranking.
+> actively developed.
+> `Python` `FastAPI` `RAG` `PostgreSQL`
 
 ---
 
@@ -240,20 +172,39 @@ When I'm not building AI systems:
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riicko-19&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riicko-19&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+## numbers
 
-### 📈 Contribution Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riicko-19&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Riicko-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riicko-19&layout=compact&theme=tokyonight&hide_border=true" />
 
-## 🌐 Let's Connect
+</div>
+
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Riicko-19&theme=tokyonight&hide_border=true"/></a>
+
+</div>
+
+---
+
+## contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riicko-19/Riicko-19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riicko-19/Riicko-19/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Riicko-19/Riicko-19/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## find me
 
 <p align="center">
   <a href="https://linkedin.com/in/abijith-g-770303296/">
