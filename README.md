@@ -1,114 +1,257 @@
-<!-- ======================= HEADER ======================= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Abijith;AI+%7C+ML+Engineer;Building+Agentic+Systems;Full-Stack+%2B+Intelligent+Systems;Always+Learning+%26+Shipping" alt="Typing SVG" />
-</h1>
+<!-- ========================================================= -->
+<!--                         ABIJITH G                          -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=190&section=header&text=ABIJITH%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineering+Student;LLM+%7C+Multi-Agent+Systems+%7C+NLP;Python+%7C+PyTorch+%7C+Docker;Building+Intelligent+Systems+That+Ship" />
+
+<br/><br/>
+
+<a href="https://github.com/Riicko-19">
+<img src="https://komarev.com/ghpvc/?username=Riicko-19&style=for-the-badge&color=238636&label=PROFILE+VIEWS"/>
+</a>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Penultimate-year engineering student
-- 🤖 Focused on **Artificial Intelligence, Machine Learning & Agentic Systems**
-- 🧩 Strong believer in **first-principles thinking + building real systems**
-- 🐍 Currently mastering **Python deeply — systems + applied AI**
-- ⚙️ Exploring **multi-agent architectures, autonomy, and intelligent decision systems**
-- 🚀 Interested in building products that combine **AI, software engineering, and real-world problem solving**
+I'm **Abijith G**, a Computer Science Engineering student specializing in **AI/ML at Presidency University**, currently building intelligent systems at the intersection of **machine learning, LLMs, and software engineering**.
+
+- 🎓 B.Tech Computer Science Engineering **(AI/ML)** — Presidency University
+- 🤖 Focused on **LLM-powered systems, NLP, information retrieval, and multi-agent architectures**
+- 🐍 Primary language: **Python**
+- 🧠 Working with **PyTorch, TensorFlow, Transformers, and scikit-learn**
+- 🔗 Building **RAG pipelines, agentic workflows, and LLM integrations**
+- ⚙️ Interested in **MLOps, reproducible ML workflows, developer tooling, and production systems**
+- 🌐 Comfortable moving from **ML pipelines → APIs → React frontends → deployment**
+- 🐳 Building with **Docker, GitHub Actions, Linux, and automated testing**
+- 🏆 **4th Place — Cardano IBW Hackathon India**
+- 🏆 Winner of **internal university hackathons**
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,html,css,linux,git,github,mysql,mongodb,tensorflow,pytorch,fastapi,docker,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css&perline=5" />
+</p>
+
+### 🤖 AI / ML / Agentic Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=5" />
+</p>
+
+<p align="center">
+
+`LLM Integration` · `Prompt Engineering` · `Multi-Agent Orchestration` · `NLP`
+`Information Retrieval` · `Transformers` · `CNNs` · `Transfer Learning`
+`scikit-learn` · `NLTK` · `spaCy` · `RAG`
+
+</p>
+
+### 🌐 Full-Stack Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,threejs,firebase&perline=6" />
+</p>
+
+`REST APIs` · `Frontend Development` · `Backend Development`
+
+### 🗄️ Data & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux,git,github,githubactions&perline=7" />
+</p>
+
+`PostgreSQL` · `MongoDB` · `Docker` · `GitHub Actions` · `Pytest` · `YAML` · `CLI`
+
+### 🛠️ Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,vercel&perline=4" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🟣 SheVest
+## 🔵 Seraph
+### LLM-Powered Multi-Agent Regulatory Intelligence System
 
-**FinTech + LegalTech ecosystem for women's financial inclusion**
+> **12 agents · LLMs · NLP · Information Retrieval · React · Vercel**
 
-- 💰 Features **ChitHub**, a community-oriented financial platform
-- ⚖️ Includes an **AI Legal Bodyguard** for legal awareness and assistance
-- 🧠 Combines AI, financial technology, and legal technology into one ecosystem
-- 🏆 Co-developed for the **SheLeads 2.0 Hackathon** alongside **Meghnath S.**
+An autonomous regulatory intelligence platform designed to transform unstructured regulatory information into structured compliance updates.
 
----
-
-### 🔵 SERAPHS 2.0
-
-**Global autonomous compliance intelligence network**
-
-- 🤖 Designed around a **12-agent autonomous architecture**
-- ⛓️ Integrates **blockchain technology** for trust, traceability, and verification
-- 🌐 Designed for continuous regulatory intelligence and compliance monitoring
-- 🧠 Focuses on autonomous reasoning, agent orchestration, and distributed intelligence
+- 🤖 Engineered a **12-agent architecture** for regulatory processing
+- 🔎 Combined web scraping with **LLM-driven document classification and metadata extraction**
+- 🧠 Designed a synchronous layered pipeline covering **retrieval → parsing → LLM analysis → structured output**
+- ⚛️ Built a React frontend over a Python agentic backend
+- 🏆 **4th Place — Cardano IBW Hackathon India**
 
 ---
 
-### 🟢 Jan-Awaaz
+## 🛡️ Sentinel
+### AI-Supervised Containerized Development Environment
 
-**AI-powered civic grievance and governance intelligence platform**
+> **Python · Docker · LLM Interface · Logging · Monitoring · Automation**
 
-- 🏛️ Designed to improve how citizen grievances are captured, understood, and routed
-- 🤖 Uses AI-driven pipelines for **classification, prioritization, and intelligent processing**
-- ⚙️ Combines **AI systems engineering with full-stack application development**
-- 🔄 Designed around feedback loops to improve transparency and responsiveness
-- 🌐 Focused on building scalable technology for citizen-centric governance
+A controlled development environment designed for safer AI-assisted experimentation.
 
----
-
-### 🟡 Lumina
-
-**Editorial-style e-commerce platform built around modern shopping experiences**
-
-- 🛍️ Combines conventional e-commerce functionality with a **lookbook/editorial frontend**
-- ⚛️ Built using **React and modular sub-agent workflows**
-- ⚡ Implements **optimistic UI states** for responsive interactions
-- 🎨 Focuses heavily on visual storytelling, product discovery, and polished UX
+- 🐳 Built an isolated Docker environment with **automated workspace provisioning**
+- 🔄 Implemented container lifecycle management for reproducible experimentation
+- 🤖 Developed a hybrid monitoring agent with a **pluggable LLM interface**
+- 👁️ Tracks developer actions, tool usage, and system requests
+- 📊 Generates structured logs, execution traces, activity reports, and safety insights
 
 ---
 
-### 🔴 Jarvis
+## 🤟 Transformer-Based Sign Language Recognition
+### Hybrid CNN–Transformer Image Classification
 
-**Autonomous multi-agent AI system**
+> **Python · PyTorch · CNN · Transformers · Transfer Learning**
 
-- 🤖 Designed to interpret goals, break them into tasks, and execute actions autonomously
-- 🧠 Built around **agent orchestration, planning, reasoning, and tool usage**
-- 🔗 Explores communication between specialized AI agents
-- ⚙️ Focuses on building scalable autonomous workflows rather than simple chatbot interactions
-- 🚀 A personal exploration into **agentic AI and autonomous software systems**
+A computer vision system for static Indian Sign Language recognition.
+
+- 🧠 Built a **hybrid CNN-Transformer classifier**
+- 🤟 Classified **35 Indian Sign Language gesture classes**
+- 🖼️ Preprocessed and augmented a **5,000+ image dataset**
+- ⚡ Applied normalization, class balancing, transfer learning, and regularization
+- 📈 Achieved **85% top-1 accuracy**
+- 🔬 Benchmarked multiple model variants through experimentation and hyperparameter tuning
 
 ---
+
+## 🔧 ForgeML
+### Modular MLOps Engineering Toolkit
+
+> **Python · Docker · GitHub Actions · Pytest · YAML · CLI · Git**
+
+A developer toolkit focused on making ML workflows **reproducible, versioned, and automatable**.
+
+- 📦 Built a modular artifact-based workflow system
+- 🔖 Implemented artifact versioning and validation
+- 🧩 Created schema-driven configuration using **YAML and JSON**
+- 💻 Added CLI-driven workflow automation
+- 🔄 Configured **GitHub Actions CI/CD**
+- 🧪 Integrated Pytest for automated validation on every commit
+
+---
+
+## 🏥 Aether
+### Patient Copilot — Collaborative AI Platform
+
+> **Python · FastAPI · RAG · LLM Orchestration · PostgreSQL · OCR/NLP**
+
+An actively developed collaborative AI platform focused on structured patient-state intelligence.
+
+- 🏗️ Co-architected a **FastAPI microservice topology**
+- 🧩 Services include **Ingestion, Baseline & Deviation, Patient State, and Policy Engine**
+- 🗃️ Uses a versioned **Patient State Graph in PostgreSQL** as the system's source of truth
+- 🔎 Built a hybrid retrieval pipeline combining:
+  - Dense embeddings
+  - BM25
+  - Cross-encoder reranking
+- 📄 Uses OCR/NLP processing to normalize medical documents into standardized representations
+
+---
+
+# 🧩 Engineering Focus
+
+```text
+                         ┌─────────────────────┐
+                         │    AI ENGINEERING   │
+                         └──────────┬──────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+          LLM SYSTEMS          AGENTIC AI              NLP
+              │                     │                     │
+              │              ┌──────┴──────┐              │
+              │              │             │              │
+              ▼              ▼             ▼              ▼
+             RAG          ORCHESTRATION   TOOLS      INFORMATION
+          RETRIEVAL       & PLANNING      & APIs      RETRIEVAL
+              │              │             │              │
+              └──────────────┴──────┬──────┴──────────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ SOFTWARE ENGINEERING│
+                         └──────────┬──────────┘
+                                    │
+                  ┌─────────────────┼─────────────────┐
+                  ▼                 ▼                 ▼
+               FULL STACK        MLOps            DEVOPS
+                  │                 │                 │
+              React/API       Reproducibility    Docker/CI
+```
+
+---
+
+## 🏆 Achievements
+
+**🥇 Cardano IBW Hackathon India — 4th Place, Seraph**
+Built an LLM-powered, 12-agent regulatory compliance intelligence system capable of processing unstructured international regulatory information.
+
+**🏆 University Hackathons**
+Winner of internal hackathons at Presidency University, Bangalore.
+
+## 💼 Experience
+
+**Full Stack Developer Intern**
+Myna Seva — via AICTE · 2024
+
+- Completed an AICTE-certified full-stack development internship
+- Built web applications
+- Contributed to deployment workflows
+
+## 🎓 Education
+
+**Presidency University · Bangalore, India**
+B.Tech — Computer Science Engineering (AI/ML)
+CGPA: 8.46 / 10.0
+`2023 — 2027`
+
+## 📜 Certifications
+
+- 🎓 NPTEL — Introduction to LLMs
+- 🎓 NPTEL — Mathematical Foundations for Machine Learning
+- 🎓 NPTEL — Social Networks
+- 🐍 Scaler Topics — Python Programming
 
 ## 🎮 Off the Keyboard
 
-- ⚽ Football enthusiast — especially the tactical and competitive side of the game
-- 🎮 Gaming, especially football and strategy-based games
-- 🧠 Fascinated by strategy, systems, and complex decision-making
-- ⚔️ Interested in military strategy, simulations, and historical conflicts
-- 💻 Usually found experimenting with Linux, software, or some completely unnecessary system customization
+When I'm not building AI systems:
+
+- ⚽ Football — watching, playing, and following the tactical side of the game
+- 🎮 Gaming — especially football and strategy-oriented games
+- 🧠 Strategy & problem solving — anything involving systems, competition, and decision-making
+- 🐧 Linux tinkering — customizing and breaking things until I understand how they work
+- 🛠️ Exploring developer tools, automation, and weird technical experiments
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Riicko-19&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riicko-19&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+### 📈 Contribution Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riicko-19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ## 🌐 Let's Connect
 
@@ -124,8 +267,8 @@
   </a>
 </p>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+`Build → Experiment → Break → Understand → Ship`
+
+</div>
