@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="759" height="370" viewBox="0 0 759 370" role="img" aria-label="About Me: a Python class describing Abijith G, an AI/ML engineer in the making from Bengaluru">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#16303d"/></linearGradient>
+<clipPath id="c0"><rect x="24" y="48" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126" keyTimes="0.00000;0.06667;0.13333;0.20000;0.26667;0.33333;0.40000;0.46667;0.53333;0.60000;0.66667;0.73333;0.80000;0.86667;0.93333" calcMode="discrete" dur="0.27s" begin="0.40s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c1"><rect x="24" y="74" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198" keyTimes="0.00000;0.04348;0.08696;0.13043;0.17391;0.21739;0.26087;0.30435;0.34783;0.39130;0.43478;0.47826;0.52174;0.56522;0.60870;0.65217;0.69565;0.73913;0.78261;0.82609;0.86957;0.91304;0.95652" calcMode="discrete" dur="0.41s" begin="0.79s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c2"><rect x="24" y="100" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;333;342;351;360;369" keyTimes="0.00000;0.02381;0.04762;0.07143;0.09524;0.11905;0.14286;0.16667;0.19048;0.21429;0.23810;0.26190;0.28571;0.30952;0.33333;0.35714;0.38095;0.40476;0.42857;0.45238;0.47619;0.50000;0.52381;0.54762;0.57143;0.59524;0.61905;0.64286;0.66667;0.69048;0.71429;0.73810;0.76190;0.78571;0.80952;0.83333;0.85714;0.88095;0.90476;0.92857;0.95238;0.97619" calcMode="discrete" dur="0.76s" begin="1.32s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c3"><rect x="24" y="126" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297" keyTimes="0.00000;0.02941;0.05882;0.08824;0.11765;0.14706;0.17647;0.20588;0.23529;0.26471;0.29412;0.32353;0.35294;0.38235;0.41176;0.44118;0.47059;0.50000;0.52941;0.55882;0.58824;0.61765;0.64706;0.67647;0.70588;0.73529;0.76471;0.79412;0.82353;0.85294;0.88235;0.91176;0.94118;0.97059" calcMode="discrete" dur="0.61s" begin="2.20s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c4"><rect x="24" y="152" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;333;342;351;360;369;378;387;396;405;414;423;432;441;450;459;468;477;486;495;504;513;522;531;540;549;558;567;576;585;594;603;612;621;630;639;648;657;666;675;684" keyTimes="0.00000;0.01299;0.02597;0.03896;0.05195;0.06494;0.07792;0.09091;0.10390;0.11688;0.12987;0.14286;0.15584;0.16883;0.18182;0.19481;0.20779;0.22078;0.23377;0.24675;0.25974;0.27273;0.28571;0.29870;0.31169;0.32468;0.33766;0.35065;0.36364;0.37662;0.38961;0.40260;0.41558;0.42857;0.44156;0.45455;0.46753;0.48052;0.49351;0.50649;0.51948;0.53247;0.54545;0.55844;0.57143;0.58442;0.59740;0.61039;0.62338;0.63636;0.64935;0.66234;0.67532;0.68831;0.70130;0.71429;0.72727;0.74026;0.75325;0.76623;0.77922;0.79221;0.80519;0.81818;0.83117;0.84416;0.85714;0.87013;0.88312;0.89610;0.90909;0.92208;0.93506;0.94805;0.96104;0.97403;0.98701" calcMode="discrete" dur="1.39s" begin="2.93s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c5"><rect x="24" y="178" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;333;342;351;360;369;378;387;396;405;414;423;432;441;450;459;468;477;486;495;504;513;522;531;540;549;558;567;576;585;594;603;612;621;630;639;648;657;666;675;684;693;702;711" keyTimes="0.00000;0.01250;0.02500;0.03750;0.05000;0.06250;0.07500;0.08750;0.10000;0.11250;0.12500;0.13750;0.15000;0.16250;0.17500;0.18750;0.20000;0.21250;0.22500;0.23750;0.25000;0.26250;0.27500;0.28750;0.30000;0.31250;0.32500;0.33750;0.35000;0.36250;0.37500;0.38750;0.40000;0.41250;0.42500;0.43750;0.45000;0.46250;0.47500;0.48750;0.50000;0.51250;0.52500;0.53750;0.55000;0.56250;0.57500;0.58750;0.60000;0.61250;0.62500;0.63750;0.65000;0.66250;0.67500;0.68750;0.70000;0.71250;0.72500;0.73750;0.75000;0.76250;0.77500;0.78750;0.80000;0.81250;0.82500;0.83750;0.85000;0.86250;0.87500;0.88750;0.90000;0.91250;0.92500;0.93750;0.95000;0.96250;0.97500;0.98750" calcMode="discrete" dur="1.44s" begin="4.44s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c6"><rect x="24" y="204" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;333;342;351;360;369;378;387;396;405;414;423;432;441;450;459;468;477;486;495;504;513;522;531;540;549;558;567;576;585;594;603;612;621" keyTimes="0.00000;0.01429;0.02857;0.04286;0.05714;0.07143;0.08571;0.10000;0.11429;0.12857;0.14286;0.15714;0.17143;0.18571;0.20000;0.21429;0.22857;0.24286;0.25714;0.27143;0.28571;0.30000;0.31429;0.32857;0.34286;0.35714;0.37143;0.38571;0.40000;0.41429;0.42857;0.44286;0.45714;0.47143;0.48571;0.50000;0.51429;0.52857;0.54286;0.55714;0.57143;0.58571;0.60000;0.61429;0.62857;0.64286;0.65714;0.67143;0.68571;0.70000;0.71429;0.72857;0.74286;0.75714;0.77143;0.78571;0.80000;0.81429;0.82857;0.84286;0.85714;0.87143;0.88571;0.90000;0.91429;0.92857;0.94286;0.95714;0.97143;0.98571" calcMode="discrete" dur="1.26s" begin="6.00s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c7"><rect x="24" y="230" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;333;342;351;360;369;378;387;396;405;414;423;432;441;450;459;468;477;486;495;504;513;522;531;540;549;558;567;576;585;594;603" keyTimes="0.00000;0.01471;0.02941;0.04412;0.05882;0.07353;0.08824;0.10294;0.11765;0.13235;0.14706;0.16176;0.17647;0.19118;0.20588;0.22059;0.23529;0.25000;0.26471;0.27941;0.29412;0.30882;0.32353;0.33824;0.35294;0.36765;0.38235;0.39706;0.41176;0.42647;0.44118;0.45588;0.47059;0.48529;0.50000;0.51471;0.52941;0.54412;0.55882;0.57353;0.58824;0.60294;0.61765;0.63235;0.64706;0.66176;0.67647;0.69118;0.70588;0.72059;0.73529;0.75000;0.76471;0.77941;0.79412;0.80882;0.82353;0.83824;0.85294;0.86765;0.88235;0.89706;0.91176;0.92647;0.94118;0.95588;0.97059;0.98529" calcMode="discrete" dur="1.22s" begin="7.38s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c8"><rect x="24" y="256" width="0" height="26">
+</rect></clipPath>
+<clipPath id="c9"><rect x="24" y="282" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198" keyTimes="0.00000;0.04348;0.08696;0.13043;0.17391;0.21739;0.26087;0.30435;0.34783;0.39130;0.43478;0.47826;0.52174;0.56522;0.60870;0.65217;0.69565;0.73913;0.78261;0.82609;0.86957;0.91304;0.95652" calcMode="discrete" dur="0.41s" begin="8.97s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="c10"><rect x="24" y="308" width="0" height="26">
+<animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;333;342;351;360;369;378;387;396;405;414;423;432;441;450;459;468;477;486;495;504;513;522;531;540;549;558" keyTimes="0.00000;0.01587;0.03175;0.04762;0.06349;0.07937;0.09524;0.11111;0.12698;0.14286;0.15873;0.17460;0.19048;0.20635;0.22222;0.23810;0.25397;0.26984;0.28571;0.30159;0.31746;0.33333;0.34921;0.36508;0.38095;0.39683;0.41270;0.42857;0.44444;0.46032;0.47619;0.49206;0.50794;0.52381;0.53968;0.55556;0.57143;0.58730;0.60317;0.61905;0.63492;0.65079;0.66667;0.68254;0.69841;0.71429;0.73016;0.74603;0.76190;0.77778;0.79365;0.80952;0.82540;0.84127;0.85714;0.87302;0.88889;0.90476;0.92063;0.93651;0.95238;0.96825;0.98413" calcMode="discrete" dur="1.13s" begin="9.51s" fill="freeze"/>
+</rect></clipPath>
+</defs>
+<rect width="759" height="370" rx="10" fill="url(#bg)"/>
+<path d="M0 10a10 10 0 0 1 10-10h739a10 10 0 0 1 10 10v26H0z" fill="#ffffff" fill-opacity="0.07"/>
+<circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="18" r="6" fill="#27c93f"/>
+<text x="84" y="22" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#cccccc">about_me.py</text>
+<g clip-path="url(#c0)"><text y="66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#569cd6">class</tspan>
+<tspan x="69" fill="#d4d4d4"> </tspan>
+<tspan x="78" fill="#4ec9b0">Abijith</tspan>
+<tspan x="141" fill="#d4d4d4">:</tspan>
+</text></g>
+<g clip-path="url(#c1)"><text y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">    </tspan>
+<tspan x="60" fill="#9cdcfe">name</tspan>
+<tspan x="96" fill="#d4d4d4"> = </tspan>
+<tspan x="123" fill="#ce9178">"Abijith G"</tspan>
+</text></g>
+<g clip-path="url(#c2)"><text y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">    </tspan>
+<tspan x="60" fill="#9cdcfe">role</tspan>
+<tspan x="96" fill="#d4d4d4"> = </tspan>
+<tspan x="123" fill="#ce9178">"AI/ML Engineer in the making"</tspan>
+</text></g>
+<g clip-path="url(#c3)"><text y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">    </tspan>
+<tspan x="60" fill="#9cdcfe">location</tspan>
+<tspan x="132" fill="#d4d4d4"> = </tspan>
+<tspan x="159" fill="#ce9178">"Bengaluru, India"</tspan>
+</text></g>
+<g clip-path="url(#c4)"><text y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">    </tspan>
+<tspan x="60" fill="#9cdcfe">education</tspan>
+<tspan x="141" fill="#d4d4d4"> = </tspan>
+<tspan x="168" fill="#ce9178">"B.Tech CSE (AI &amp; ML), Presidency University, class of 2027"</tspan>
+</text></g>
+<g clip-path="url(#c5)"><text y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">    </tspan>
+<tspan x="60" fill="#9cdcfe">building</tspan>
+<tspan x="132" fill="#d4d4d4"> = [</tspan>
+<tspan x="168" fill="#ce9178">"LLM pipelines"</tspan>
+<tspan x="303" fill="#d4d4d4">, </tspan>
+<tspan x="321" fill="#ce9178">"AI agent tooling"</tspan>
+<tspan x="483" fill="#d4d4d4">, </tspan>
+<tspan x="501" fill="#ce9178">"reproducible ML systems"</tspan>
+<tspan x="726" fill="#d4d4d4">]</tspan>
+</text></g>
+<g clip-path="url(#c6)"><text y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">    </tspan>
+<tspan x="60" fill="#9cdcfe">researching</tspan>
+<tspan x="159" fill="#d4d4d4"> = [</tspan>
+<tspan x="195" fill="#ce9178">"video understanding"</tspan>
+<tspan x="384" fill="#d4d4d4">, </tspan>
+<tspan x="402" fill="#ce9178">"learning from noisy data"</tspan>
+<tspan x="636" fill="#d4d4d4">]</tspan>
+</text></g>
+<g clip-path="url(#c7)"><text y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">    </tspan>
+<tspan x="60" fill="#9cdcfe">stack</tspan>
+<tspan x="105" fill="#d4d4d4"> = [</tspan>
+<tspan x="141" fill="#ce9178">"Python"</tspan>
+<tspan x="213" fill="#d4d4d4">, </tspan>
+<tspan x="231" fill="#ce9178">"PyTorch"</tspan>
+<tspan x="312" fill="#d4d4d4">, </tspan>
+<tspan x="330" fill="#ce9178">"LangChain"</tspan>
+<tspan x="429" fill="#d4d4d4">, </tspan>
+<tspan x="447" fill="#ce9178">"FastAPI"</tspan>
+<tspan x="528" fill="#d4d4d4">, </tspan>
+<tspan x="546" fill="#ce9178">"Docker"</tspan>
+<tspan x="618" fill="#d4d4d4">]</tspan>
+</text></g>
+<g clip-path="url(#c9)"><text y="300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">    </tspan>
+<tspan x="60" fill="#569cd6">def</tspan>
+<tspan x="87" fill="#d4d4d4"> </tspan>
+<tspan x="96" fill="#dcdcaa">mission</tspan>
+<tspan x="159" fill="#d4d4d4">(</tspan>
+<tspan x="168" fill="#9cdcfe">self</tspan>
+<tspan x="204" fill="#d4d4d4">):</tspan>
+</text></g>
+<g clip-path="url(#c10)"><text y="326" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+<tspan x="24" fill="#d4d4d4">        </tspan>
+<tspan x="96" fill="#c586c0">return</tspan>
+<tspan x="150" fill="#d4d4d4"> </tspan>
+<tspan x="159" fill="#ce9178">"Turn messy data into models people can trust."</tspan>
+</text></g>
+<rect x="584" y="312" width="8" height="18" fill="#aeafad" opacity="0">
+<animate attributeName="opacity" values="1;0" keyTimes="0;1" calcMode="discrete" dur="1s" begin="10.76s" repeatCount="indefinite"/>
+</rect>
+</svg>
