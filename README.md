@@ -1,225 +1,57 @@
-<!-- ========================================================= -->
-<!--                         ABIJITH G                          -->
-<!-- ========================================================= -->
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm G Abijith</h1>
 
-<div align="center">
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=190&section=header&text=ABIJITH%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineering+Student;LLM+%7C+Multi-Agent+Systems+%7C+NLP;Python+%7C+PyTorch+%7C+Docker;Building+Intelligent+Systems+That+Ship" />
-
-<br/><br/>
-
-<a href="https://github.com/Riicko-19">
-<img src="https://komarev.com/ghpvc/?username=Riicko-19&style=for-the-badge&color=238636&label=PROFILE+VIEWS"/>
-</a>
-
-</div>
-
----
-
-## 🧠 About Me
-
-I'm **Abijith G**, a Computer Science Engineering student specializing in **AI/ML at Presidency University**, currently building intelligent systems at the intersection of **machine learning, LLMs, and software engineering**.
-
-- 🎓 B.Tech Computer Science Engineering **(AI/ML)** — Presidency University
-- 🤖 Focused on **LLM-powered systems, NLP, information retrieval, and multi-agent architectures**
-- 🐍 Primary language: **Python**
-- 🧠 Working with **PyTorch, TensorFlow, Transformers, and scikit-learn**
-- 🔗 Building **RAG pipelines, agentic workflows, and LLM integrations**
-- ⚙️ Interested in **MLOps, reproducible ML workflows, developer tooling, and production systems**
-- 🌐 Comfortable moving from **ML pipelines → APIs → React frontends → deployment**
-- 🐳 Building with **Docker, GitHub Actions, Linux, and automated testing**
-- 🏆 **4th Place — Cardano IBW Hackathon India**
-- 🏆 Winner of **internal university hackathons**
-
----
-
-## stack
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=58A6FF"/>
+  <a href="https://www.gitskins.com/github-profile-readme-generator?utm_source=github_readme&amp;utm_medium=readme&amp;utm_campaign=header_image&amp;utm_content=riicko-19"><img src="https://www.gitskins.com/api/section/stats?username=riicko-19&theme=github-dark&mode=dark" alt="riicko-19's GitHub Stats" width="49%" /></a>
+  <img src="https://streak-stats.demolab.com/?user=riicko-19&theme=nightowl&hide_border=true&cache_seconds=86400" alt="riicko-19's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-
-`LLM Integration` · `RAG` · `Multi-Agent Orchestration` · `Prompt Engineering` · `NLP` · `Information Retrieval` · `Transfer Learning`
-
+  <img src="https://www.gitskins.com/api/section/stack?username=riicko-19&theme=github-dark&mode=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=riicko-19&theme=github-dark&mode=dark" alt="G Abijith's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=riicko-19&theme=github-dark&mode=dark" alt="riicko-19's Activity Graph" />
 </p>
 
----
+## 🛠️ Languages & Tools
 
-## shipped
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-**[Seraph](https://github.com/Riicko-19/Seraphs)**
-> llm-powered, 12-agent regulatory intelligence system. scrapes and classifies unstructured regulatory documents through a layered retrieval → parsing → llm-analysis → structured-output pipeline. react frontend over a python agentic backend.
-> 4th place, Cardano IBW Hackathon India.
-> `Python` `LLMs` `NLP` `React`
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-**[Transformer-Based Sign Language Recognition](https://github.com/Riicko-19/ISL)**
-> hybrid cnn-transformer classifier for indian sign language. 35 gesture classes, 5,000+ image dataset, transfer learning + augmentation + regularization.
-> 85% top-1 accuracy.
-> `Python` `PyTorch` `CNN` `Transformers`
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
-**[ForgeML](https://github.com/Riicko-19/ForgeML)**
-> modular mlops toolkit. artifact-based workflow system with versioning and validation, schema-driven yaml/json config, cli-driven automation. github actions ci + pytest run on every commit.
-> `Python` `Docker` `GitHub Actions` `Pytest`
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
----
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
 
-## in the lab
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-**Sentinel**
-> ai-supervised, docker-isolated dev environment. automated workspace provisioning, container lifecycle management, and a monitoring agent with a pluggable llm interface — tracks tool usage and system requests, emits structured logs and safety reports.
-> `Python` `Docker` `LLM Interface`
-
-**Aether**
-> patient copilot. a fastapi microservice topology (ingestion, baseline & deviation, patient state, policy engine) backed by a versioned patient-state graph in postgres. hybrid retrieval across dense embeddings, bm25, and cross-encoder reranking.
-> actively developed.
-> `Python` `FastAPI` `RAG` `PostgreSQL`
-
----
-
-# 🧩 Engineering Focus
-
-```text
-                         ┌─────────────────────┐
-                         │    AI ENGINEERING   │
-                         └──────────┬──────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              │                     │                     │
-              ▼                     ▼                     ▼
-          LLM SYSTEMS          AGENTIC AI              NLP
-              │                     │                     │
-              │              ┌──────┴──────┐              │
-              │              │             │              │
-              ▼              ▼             ▼              ▼
-             RAG          ORCHESTRATION   TOOLS      INFORMATION
-          RETRIEVAL       & PLANNING      & APIs      RETRIEVAL
-              │              │             │              │
-              └──────────────┴──────┬──────┴──────────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ SOFTWARE ENGINEERING│
-                         └──────────┬──────────┘
-                                    │
-                  ┌─────────────────┼─────────────────┐
-                  ▼                 ▼                 ▼
-               FULL STACK        MLOps            DEVOPS
-                  │                 │                 │
-              React/API       Reproducibility    Docker/CI
-```
-
----
-
-## 🏆 Achievements
-
-**🥇 Cardano IBW Hackathon India — 4th Place, Seraph**
-Built an LLM-powered, 12-agent regulatory compliance intelligence system capable of processing unstructured international regulatory information.
-
-**🏆 University Hackathons**
-Winner of internal hackathons at Presidency University, Bangalore.
-
-## 💼 Experience
-
-**Full Stack Developer Intern**
-Myna Seva — via AICTE · 2024
-
-- Completed an AICTE-certified full-stack development internship
-- Built web applications
-- Contributed to deployment workflows
-
-## 🎓 Education
-
-**Presidency University · Bangalore, India**
-B.Tech — Computer Science Engineering (AI/ML)
-CGPA: 8.46 / 10.0
-`2023 — 2027`
-
-## 📜 Certifications
-
-- 🎓 NPTEL — Introduction to LLMs
-- 🎓 NPTEL — Mathematical Foundations for Machine Learning
-- 🎓 NPTEL — Social Networks
-- 🐍 Scaler Topics — Python Programming
-
-## 🎮 Off the Keyboard
-
-When I'm not building AI systems:
-
-- ⚽ Football — watching, playing, and following the tactical side of the game
-- 🎮 Gaming — especially football and strategy-oriented games
-- 🧠 Strategy & problem solving — anything involving systems, competition, and decision-making
-- 🐧 Linux tinkering — customizing and breaking things until I understand how they work
-- 🛠️ Exploring developer tools, automation, and weird technical experiments
-
----
-
-
-## numbers
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Riicko-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riicko-19&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Riicko-19&theme=tokyonight&hide_border=true"/></a>
-
-</div>
-
----
-
-## contribution snake
-
-<div align="center">
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riicko-19/Riicko-19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riicko-19/Riicko-19/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Riicko-19/Riicko-19/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=riicko-19&theme=github-dark&mode=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=riicko-19&theme=github-dark&mode=dark" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=riicko-19&theme=github-dark&mode=dark" />
 </picture>
 
-</div>
-
----
-
-## find me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abijith-g-770303296/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abijithgopinath53@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Riicko-19">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 <div align="center">
-
-`Build → Experiment → Break → Understand → Ship`
-
+  <!---->
 </div>
+
+<p align="center"><sub>G Abijith · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/github-profile-readme-generator?utm_source=github_readme&amp;utm_medium=readme&amp;utm_campaign=footer&amp;utm_content=riicko-19">GitSkins</a></sub></p>
