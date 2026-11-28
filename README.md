@@ -3,7 +3,17 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>class Abijith:
+    name = "Abijith G"
+    role = "AI/ML Engineer in the making"
+    location = "Bengaluru, India"
+    education = "B.Tech CSE (AI & ML), Presidency University, class of 2027"
+    building = ["LLM pipelines", "AI agent tooling", "reproducible ML systems"]
+    researching = ["video understanding", "learning from noisy data"]
+    stack = ["Python", "PyTorch", "LangChain", "FastAPI", "Docker"]
+
+    def mission(self):
+        return "Turn messy data into models people can trust."</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
