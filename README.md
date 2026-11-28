@@ -3,19 +3,8 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- <p style="font-family: monospace;">
-class Abijith:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;name = "Abijith G"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;role = "AI/ML Engineer in the making"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;location = "Bengaluru, India"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;education = "B.Tech CSE (AI &amp; ML), Presidency University, class of 2027"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;building = ["LLM pipelines", "AI agent tooling", "reproducible ML systems"]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;researching = ["video understanding", "learning from noisy data"]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;stack = ["Python", "PyTorch", "LangChain", "FastAPI", "Docker"]<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;def mission(self):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return "Turn messy data into models people can trust."
-</p>
+
+<img src="about-me.svg" alt="About Me: a Python class describing Abijith G, an AI/ML engineer in the making from Bengaluru" width="100%">
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
